@@ -5,7 +5,7 @@
 | ------------- | --------- |
 | CPU | i5-7600K |
 | RAM | DDR4 16GB (4x4GB) 2400MHz |
-| Audio Chipset | Realtek ALC887. Works with layout-id 11 |
+| Audio Chipset | Realtek ALC887. Works with layout-id 1 |
 | dGPU | GT 710. Works OOB |
 | iGPU | Intel UHD Graphics 630 |
 | Lan |  Realtek 8111H Gigabit LAN controller |

@@ -1,5 +1,11 @@
 # MSI-B250M-PRO-VDH-i5-7600K
-
+ <p align="center">
+  <img src="Docs/AboutThisMac.png" align=center">
+ </p>
+ <p align="center">
+  <img src="Docs/PCI.png" align=center">
+ </p>
+ 
  ## Specs
  | **Component** | **Model** |
 | ------------- | --------- |

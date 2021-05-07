@@ -19,6 +19,7 @@
 | macOS | Big Sur 11.3.1/OpenCore 0.6.9
 
 ## BIOS
+| **Setting** | **Value** |
 | ------------- | --------- |
 | SATA Mode | AHCI Mode |
 | Intel Serial I/O | Disabled |

@@ -30,7 +30,6 @@
 | Initial Graphics Adapter | PEG |
 | Intergrated Graphics Share Memory | 64M |
 | Thunderbolt Support | Enabled |
-| Thunderbolt Usb Support | Enabled |
 
 ## USB config
 Because XhciPortLimit kernel quirk no longer works on the latest Big Sur 11.3.x, we are left with 15 ports max. I have made a custom USBPorts.kext where I adjusted USB-A 3.0 ports on the back plane to be 5GB only. USB 2.0 devices will not work in them. USB-C port works with 3.0 and 2.0 devices. Motherboard USB3.0 header works with both USB3.0 and 2.0 devices. All 6 USB2.0 ports (2 on the back and 4 on the Motherboard hearders) work.

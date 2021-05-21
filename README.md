@@ -28,7 +28,7 @@
 | SATA Mode | AHCI Mode |
 | Intel Serial I/O | Disabled |
 | Initial Graphics Adapter | PEG |
-| Intergrated Graphics Share Memory | 128M |
+| Intergrated Graphics Share Memory | 64M |
 | Thunderbolt Support | Enabled |
 | Thunderbolt Usb Support | Enabled |
 

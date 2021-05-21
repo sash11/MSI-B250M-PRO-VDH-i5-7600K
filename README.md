@@ -18,6 +18,7 @@
 | dGPU | GeForce GT 710. Works OOB |
 | iGPU | Intel UHD Graphics 630 |
 | Lan |  Realtek 8111H Gigabit LAN controller |
+| WiFi | Fenvi T919. Works OOB |
 | OS Disk | 256GB Samsung 850 Pro SATA |
 | macOS | Big Sur 11.3.1/OpenCore 0.6.9
 

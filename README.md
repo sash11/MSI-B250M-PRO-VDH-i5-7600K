@@ -20,7 +20,7 @@
 | Lan |  Realtek 8111H Gigabit LAN controller |
 | WiFi | Fenvi T919. Works OOB |
 | OS Disk | 256GB Samsung 850 Pro SATA |
-| macOS | Big Sur 11.3.1/OpenCore 0.6.9
+| macOS | Big Sur 11.5.2/OpenCore 0.7.3
 
 ## BIOS
 | **Setting** | **Value** |
@@ -51,3 +51,5 @@ Because XhciPortLimit kernel quirk no longer works on the latest Big Sur 11.3.x,
  <p align="center">
   <img src="Docs/B250M-PRO-VDH.png" align=center">
  </p>
+
+ Generate your own Serial/UUID/MLB and change ROM as well.

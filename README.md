@@ -55,6 +55,7 @@ Because XhciPortLimit kernel quirk no longer works on the latest Big Sur 11.3.x,
 ## iGPU only system
 If you don't have any supported dGPU, you can run only on internal Intel graphics. In my case it is HD 630 with device id 00001259.
 SMBIOS section in config.plist should be updated to iMac18,1. New serial/UUID/MLB should be generated.
+Boot arguments should be -v slide=0 igfxonln=1
 USBPorts.kext kext should also be updated to change Mac model to iMac18,1
  <p align="center">
   <img src="Docs/iGPU.png" align=center">

@@ -16,7 +16,7 @@
 | RAM | DDR4 16GB (4x4GB) 2400MHz |
 | Audio Chipset | Realtek ALC887. Works with layout-id 1 |
 | dGPU | GeForce GT 710. Works OOB |
-| iGPU | Intel UHD Graphics 630 |
+| iGPU | Intel HD Graphics 630 |
 | Lan |  Realtek 8111H Gigabit LAN controller |
 | WiFi | Fenvi T919. Works OOB |
 | OS Disk | 256GB Samsung 850 Pro SATA |
@@ -52,4 +52,13 @@ Because XhciPortLimit kernel quirk no longer works on the latest Big Sur 11.3.x,
   <img src="Docs/B250M-PRO-VDH.png" align=center">
  </p>
 
- Generate your own Serial/UUID/MLB and change ROM as well.
+## iGPU only system
+If you don't have any supported dGPU, you can run only on internal Intel graphics. In my case it is HD 630 with device id 00001259.
+SMBIOS section in config.plist should be updated to iMac18,1. New serial/UUID/MLB should be generated.
+USBPorts.kext kext should also be updated to change Mac model to iMac18,1
+ <p align="center">
+  <img src="Docs/iGPU.png" align=center">
+ </p>
+  <p align="center">
+  <img src="Docs/iMac18,1.png" align=center">
+ </p>

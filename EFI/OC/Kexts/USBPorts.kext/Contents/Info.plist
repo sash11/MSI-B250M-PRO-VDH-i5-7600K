@@ -168,7 +168,7 @@
 					<key>SS03</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>SS03</string>
 						<key>port</key>

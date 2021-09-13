@@ -20,7 +20,7 @@
 | Lan |  Realtek 8111H Gigabit LAN controller |
 | WiFi | Fenvi T919. Works OOB |
 | OS Disk | 256GB Samsung 850 Pro SATA |
-| macOS | Big Sur 11.5.2/OpenCore 0.7.3
+| macOS | Big Sur 11.6/OpenCore 0.7.3
 
 ## BIOS
 | **Setting** | **Value** |

@@ -27,7 +27,7 @@
 | ------------- | --------- |
 | Above 4G memory | Enabled |
 | Initial Graphics Adapter | PEG if dGPU or IGD if iGPU |
-| Intergrated Graphics Share Memory | 64M |
+| Intergrated Graphics Share Memory | 128MB |
 | Thunderbolt Support | Enabled |
 | SATA Mode | AHCI Mode |
 | Intel Serial I/O | Disabled |

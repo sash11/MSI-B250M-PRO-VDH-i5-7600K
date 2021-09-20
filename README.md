@@ -45,12 +45,6 @@
 
 ## USB config
 All USB ports are working. I have made a custom USB-B250.kext that maps them.
- <p align="center">
-  <img src="Docs/BackIO.png" align=center">
- </p>
- <p align="center">
-  <img src="Docs/B250M-PRO-VDH.png" align=center">
- </p>
 
 ## iGPU only system
 If you don't have any supported dGPU, you can run only on internal Intel graphics. In my case it is HD 630 with device id 00001259.

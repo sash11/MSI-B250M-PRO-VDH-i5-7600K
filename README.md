@@ -53,7 +53,7 @@ SMBIOS section in config.plist should be updated to iMac18,1. New serial/UUID/ML
 
 Boot arguments should be -v slide=0 igfxonln=1
 
-USBPorts.kext kext should also be updated to change Mac model to iMac18,1
+USB-B250.kext should also be updated to change Mac model to iMac18,1
  <p align="center">
   <img src="Docs/iGPU.png" align=center">
  </p>

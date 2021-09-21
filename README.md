@@ -44,7 +44,7 @@
 | CFG Lock | Disabled |
 
 ## USB config
-All USB ports are working. I have made a custom USB-B250.kext that maps them.
+All USB ports are working. I have made a custom USB-B250.kext that maps them. It should be used together with XhciPortLimit kernel quirk.
 
 ## iGPU only system
 If you don't have any supported dGPU, you can run only on internal Intel graphics. In my case it is HD 630 with device id 00001259.
